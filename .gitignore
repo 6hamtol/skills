@@ -1,0 +1,9 @@
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.idea/
+.cursor/
+.vscode/*
+!.vscode/extensions.json
