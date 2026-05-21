@@ -2,6 +2,7 @@
   "name": "6hamtol-skills",
   "skills": [
     "./skills/productivity/smart-brevity",
-    "./skills/productivity/create-design-md"
+    "./skills/productivity/create-design-md",
+    "./skills/productivity/implement-design-system"
   ]
 }
