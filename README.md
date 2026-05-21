@@ -21,6 +21,7 @@ npx skills@latest add 6hamtol/skills
 | 스킬 | 설명 |
 |------|------|
 | [smart-brevity](./skills/productivity/smart-brevity/SKILL.md) | Slack 공지·이메일·회의록·기획서를 Smart Brevity 원칙으로 작성·리라이팅 |
+| [create-design-md](./skills/productivity/create-design-md/SKILL.md) | 브랜드/제품의 DESIGN.md(컬러·타이포·컴포넌트 토큰)를 대화로 생성 |
 
 ## 구조
 
