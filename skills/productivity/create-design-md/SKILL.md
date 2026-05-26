@@ -1,6 +1,6 @@
 ---
 name: create-design-md
-description: 브랜드·제품의 디자인 시스템을 정의하는 DESIGN.md를 생성. 트리거 조건: "DESIGN.md 만들어", "디자인 시스템 정의", "디자인 토큰", "컬러 팔레트 잡아줘", "타이포그래피 정의", "brand guidelines", "design tokens", "make a design system". NOT for: 기존 CSS·Tailwind 파일 직접 수정, 단순 색상 추천 (DESIGN.md 없이), README 작성, 코드 컴포넌트 리팩터링.
+description: '브랜드·제품의 디자인 시스템을 정의하는 DESIGN.md를 생성. 트리거 조건: "DESIGN.md 만들어", "디자인 시스템 정의", "디자인 토큰", "컬러 팔레트 잡아줘", "타이포그래피 정의", "brand guidelines", "design tokens", "make a design system". NOT for: 기존 CSS·Tailwind 파일 직접 수정, 단순 색상 추천 (DESIGN.md 없이), README 작성, 코드 컴포넌트 리팩터링.'
 ---
 
 # create-design-md

@@ -1,6 +1,6 @@
 ---
 name: implement-design-system
-description: DESIGN.md를 기반으로 Tailwind·shadcn·Radix UI 디자인 시스템을 실제 코드로 구현. 트리거 조건: "디자인 시스템 구현", "DESIGN.md 적용", "shadcn 셋업", "tailwind 토큰 적용", "implement design system", "디자인 시스템 코드로", "@DESIGN.md 기반으로". NOT for: DESIGN.md 자체 작성(→ create-design-md 스킬 사용), 컴포넌트 한두 개만 추가, 기존 디자인 시스템 마이그레이션.
+description: 'DESIGN.md를 기반으로 Tailwind·shadcn·Radix UI 디자인 시스템을 실제 코드로 구현. 트리거 조건: "디자인 시스템 구현", "DESIGN.md 적용", "shadcn 셋업", "tailwind 토큰 적용", "implement design system", "디자인 시스템 코드로", "@DESIGN.md 기반으로". NOT for: DESIGN.md 자체 작성(→ create-design-md 스킬 사용), 컴포넌트 한두 개만 추가, 기존 디자인 시스템 마이그레이션.'
 ---
 
 # implement-design-system
